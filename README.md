@@ -6,6 +6,9 @@ This project focuses on price optimization of retail products using Machine Lear
 
 ## Tech Stack
 Languages: Python
+
 Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
+
 ML Models: Linear Regression, Decision Tree, Random Forest, XGBoost
+
 Tools: Jupyter Notebook / VS Code
