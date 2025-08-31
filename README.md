@@ -3,3 +3,9 @@ An ML-powered system to dynamically set optimized product prices for maximizing 
 
 ## Overview
 This project focuses on price optimization of retail products using Machine Learning. Pricing plays a crucial role in influencing customer purchase behavior—while some products are highly price-sensitive, others, like luxury items, are less impacted. Traditionally, many retailers rely on outdated methods such as intuition or past trends to set prices, which often leads to missed opportunities. By leveraging ML models, we can dynamically analyze changing patterns, incorporate new data, and determine the optimal price for each product. This approach helps retailers maximize sales, meet customer needs, and increase profitability by moving away from static or aggressive pricing strategies. The developed model supports dynamic pricing to ensure healthier and more sustainable business growth.
+
+## Tech Stack
+Languages: Python
+Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
+ML Models: Linear Regression, Decision Tree, Random Forest, XGBoost
+Tools: Jupyter Notebook / VS Code
